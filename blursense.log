@@ -1,0 +1,70 @@
+2026-04-16 11:15:17  [INFO]  FaceDetector initialised with cascade: C:\Users\acer\AppData\Local\Programs\Python\Python314\Lib\site-packages\cv2\data\haarcascade_frontalface_default.xml
+2026-04-16 11:15:17  [INFO]  AlertManager ready  |  snapshots → 'snapshots'  |  cooldown → 10s
+2026-04-16 11:15:17  [INFO]  BlurSenseApp initialised  |  starting mode → AUTHORIZED
+2026-04-16 11:15:17  [INFO]  ============================================================
+2026-04-16 11:15:17  [INFO]    BlurSense AI  –  Privacy-Aware CCTV System  STARTED
+2026-04-16 11:15:17  [INFO]  ============================================================
+2026-04-16 11:15:18  [INFO]  Webcam opened  |  index=0
+2026-04-16 11:15:28  [INFO]  Mode switched → UNAUTHORIZED
+2026-04-16 11:15:28  [WARNING]  ALERT  |  UNAUTHORIZED mode  |  faces=3  |  time=2026-04-16 11:15:28
+2026-04-16 11:15:28  [INFO]  Snapshot saved → snapshots\alert_20260416_111528.jpg
+2026-04-16 11:15:28  [WARNING]  Telegram not configured – set TELEGRAM_BOT_TOKEN & TELEGRAM_CHAT_ID.
+2026-04-16 11:15:33  [INFO]  Quit key pressed.
+2026-04-16 11:15:33  [INFO]  Camera released. Goodbye!
+2026-04-16 11:15:33  [INFO]  BlurSense AI shut down cleanly.
+2026-04-16 11:20:23  [INFO]  FaceDetector initialised with cascade: C:\Users\acer\AppData\Local\Programs\Python\Python314\Lib\site-packages\cv2\data\haarcascade_frontalface_default.xml
+2026-04-16 11:20:23  [INFO]  AlertManager ready  |  snapshots → 'snapshots'  |  cooldown → 10s
+2026-04-16 11:20:23  [INFO]  BlurSenseApp initialised  |  starting mode → AUTHORIZED
+2026-04-16 11:20:23  [INFO]  ============================================================
+2026-04-16 11:20:23  [INFO]    BlurSense AI  –  Privacy-Aware CCTV System  STARTED
+2026-04-16 11:20:23  [INFO]  ============================================================
+2026-04-16 11:20:24  [INFO]  Webcam opened  |  index=0
+2026-04-16 11:20:30  [INFO]  Mode switched → UNAUTHORIZED
+2026-04-16 11:20:30  [WARNING]  ALERT  |  UNAUTHORIZED mode  |  faces=3  |  time=2026-04-16 11:20:30
+2026-04-16 11:20:30  [INFO]  Snapshot saved → snapshots\alert_20260416_112030.jpg
+2026-04-16 11:20:32  [INFO]  Telegram alert sent  |  faces=3
+2026-04-16 11:20:37  [INFO]  Quit key pressed.
+2026-04-16 11:20:38  [INFO]  Camera released. Goodbye!
+2026-04-16 11:20:38  [INFO]  BlurSense AI shut down cleanly.
+2026-04-16 12:12:01  [INFO]  FaceDetector initialised with cascade: C:\Users\acer\AppData\Local\Programs\Python\Python314\Lib\site-packages\cv2\data\haarcascade_frontalface_default.xml
+2026-04-16 12:12:01  [INFO]  AlertManager ready  |  snapshots → 'snapshots'  |  cooldown → 10s
+2026-04-16 12:12:01  [INFO]  BlurSenseApp initialised  |  starting mode → AUTHORIZED
+2026-04-16 12:12:01  [INFO]  ============================================================
+2026-04-16 12:12:01  [INFO]    BlurSense AI  –  Privacy-Aware CCTV System  STARTED
+2026-04-16 12:12:01  [INFO]  ============================================================
+2026-04-16 12:12:02  [INFO]  Webcam opened  |  index=0
+2026-04-16 12:12:08  [INFO]  Mode switched → UNAUTHORIZED
+2026-04-16 12:12:08  [WARNING]  ALERT  |  UNAUTHORIZED mode  |  faces=4  |  time=2026-04-16 12:12:08
+2026-04-16 12:12:08  [INFO]  Snapshot saved → snapshots\alert_20260416_121208.jpg
+2026-04-16 12:12:12  [INFO]  Telegram alert sent  |  faces=4
+2026-04-16 12:12:22  [INFO]  Quit key pressed.
+2026-04-16 12:12:22  [INFO]  Camera released. Goodbye!
+2026-04-16 12:12:22  [INFO]  BlurSense AI shut down cleanly.
+2026-04-16 12:22:13  [INFO]  FaceDetector initialised with cascade: C:\Users\acer\AppData\Local\Programs\Python\Python314\Lib\site-packages\cv2\data\haarcascade_frontalface_default.xml
+2026-04-16 12:22:13  [INFO]  AlertManager ready  |  snapshots → 'snapshots'  |  cooldown → 10s
+2026-04-16 12:22:13  [INFO]  BlurSenseApp initialised  |  starting mode → AUTHORIZED
+2026-04-16 12:22:13  [INFO]  ============================================================
+2026-04-16 12:22:13  [INFO]    BlurSense AI  –  Privacy-Aware CCTV System  STARTED
+2026-04-16 12:22:13  [INFO]  ============================================================
+2026-04-16 12:22:13  [INFO]  Webcam opened  |  index=0
+2026-04-16 12:22:19  [INFO]  Mode switched → UNAUTHORIZED
+2026-04-16 12:22:19  [WARNING]  ALERT  |  UNAUTHORIZED mode  |  faces=4  |  time=2026-04-16 12:22:19
+2026-04-16 12:22:19  [INFO]  Snapshot saved → snapshots\alert_20260416_122219.jpg
+2026-04-16 12:22:19  [WARNING]  Telegram not configured – set TELEGRAM_BOT_TOKEN & TELEGRAM_CHAT_ID.
+2026-04-16 12:22:21  [INFO]  Quit key pressed.
+2026-04-16 12:22:21  [INFO]  Camera released. Goodbye!
+2026-04-16 12:22:21  [INFO]  BlurSense AI shut down cleanly.
+2026-04-16 12:35:03  [INFO]  FaceDetector initialised with cascade: C:\Users\acer\AppData\Local\Programs\Python\Python314\Lib\site-packages\cv2\data\haarcascade_frontalface_default.xml
+2026-04-16 12:35:03  [INFO]  AlertManager ready  |  snapshots → 'snapshots'  |  cooldown → 10s
+2026-04-16 12:35:03  [INFO]  BlurSenseApp initialised  |  starting mode → AUTHORIZED
+2026-04-16 12:35:03  [INFO]  ============================================================
+2026-04-16 12:35:03  [INFO]    BlurSense AI  –  Privacy-Aware CCTV System  STARTED
+2026-04-16 12:35:03  [INFO]  ============================================================
+2026-04-16 12:35:04  [INFO]  Webcam opened  |  index=0
+2026-04-16 12:35:08  [INFO]  Mode switched → UNAUTHORIZED
+2026-04-16 12:35:08  [WARNING]  ALERT  |  UNAUTHORIZED mode  |  faces=3  |  time=2026-04-16 12:35:08
+2026-04-16 12:35:08  [INFO]  Snapshot saved → snapshots\alert_20260416_123508.jpg
+2026-04-16 12:35:10  [INFO]  Telegram alert sent  |  faces=3
+2026-04-16 12:35:11  [INFO]  Quit key pressed.
+2026-04-16 12:35:11  [INFO]  Camera released. Goodbye!
+2026-04-16 12:35:11  [INFO]  BlurSense AI shut down cleanly.
