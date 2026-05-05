@@ -103,7 +103,7 @@ The live camera feed will open in a window. Use the keyboard controls below to o
 ![Unauthorized Mode](Unauthorized_mode.jpg)
 
 ### Telegram Alert Notification
-![Telegram Alert](images/telegram_alert.png)
+![Telegram Alert](Telegram_Alert.jpeg)
 
 
 
