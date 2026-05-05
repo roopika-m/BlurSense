@@ -100,7 +100,7 @@ The live camera feed will open in a window. Use the keyboard controls below to o
 ## 📸 Output / Screenshot
 
 ### Unauthorized Mode — Faces Blurred
-![Unauthorized Mode](images/unauthorized_mode.png)
+![Unauthorized Mode](Unauthorized_mode.jpg)
 
 ### Telegram Alert Notification
 ![Telegram Alert](images/telegram_alert.png)
